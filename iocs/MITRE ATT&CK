@@ -1,0 +1,9 @@
+## MITRE ATT&CK Mapping
+
+### T1566.002 - Phishing: Spearphishing Link
+
+The email contained a Telegram invitation URL and attempted to direct
+the recipient to an external communication platform.
+
+This behavior was mapped to T1566.002 based on the presence of a link
+used as part of the suspected phishing communication.
