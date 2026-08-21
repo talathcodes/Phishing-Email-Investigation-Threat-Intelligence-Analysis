@@ -1,0 +1,6 @@
+Type,Indicator,Source,VirusTotal,Assessment
+IP,77.37.35.56,Received header,0/91,Inconclusive
+Domain,srv1862.main-hosting.eu,Received header,0/91,Inconclusive
+IP,146.70.104.28,PHP headers,0/91,Suspicious context
+Domain,wintermute.business,PHP/Message-ID,1/91,Malicious classification
+URL,https://t.me/+Jn3tuBa5uX5jNDAx,Email body,0/92,No malicious detection
